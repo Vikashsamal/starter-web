@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> -- Bikash Samal -- <twitter>
+    Bikash Samal
+    vks.samal1992@gmail.com
+    DevOps Engineer
 
 # THANKS
 
